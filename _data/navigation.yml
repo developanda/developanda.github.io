@@ -1,17 +1,17 @@
 # Site Author
 author:
   name             : "Jay"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "발전하고 있는 데이터 분석가"
+  avatar           : "https://avatars.githubusercontent.com/u/161421211?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "발전하는 데이터 분석가"
   location         : "South Korea"
 
 # main links
 main:
-  - title: "분석"
-    url: /analysis/
   - title: "DataBase"
     url: /DB/
-  - title: "개발"
+  - title: "Develop"
     url: /develop/
-  - title: "기타"
+  - title: "Analysis"
+    url: /analysis/
+  - title: "etc"
     url: /etc/
