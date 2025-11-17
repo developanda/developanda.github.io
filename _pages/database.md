@@ -1,7 +1,7 @@
 ---
 title: "Database"
 layout: category
-permalink: /database/
+permalink: /DB/
 author_profile: true
 toc_sticky: true
 toc_ads: true
