@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Panda's blog"
+title                    : "Panda’s Data blog"
 title_separator          : "-"
-subtitle                 : "발전하기 위해 공부한 내용을 기록하는 분석가 블로그"# site tagline that appears below site title in masthead
+subtitle                 : "데이터 분석가로서 발전을 위한 기록 블로그"# site tagline that appears below site title in masthead
 name                     : "Jay"
 description              : "Develop Panda(Jay) story"
 url                      : "https://developanda.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -116,51 +116,23 @@ analytics:
 author:
   name             : "Jay"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "발전하고 있는 데이터 분석가"
+  bio              : "발전하는 데이터 분석가"
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "✉"
+      # url: "jay_sj1346@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "developanda" # "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "developanda" # "https://github.com/developanda"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
