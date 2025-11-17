@@ -125,7 +125,7 @@ author:
       # url: "jay_sj1346@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "developanda" # "https://github.com/developanda"
+      url: "https://github.com/developanda" # 
 
 # Site Footer
 footer:
