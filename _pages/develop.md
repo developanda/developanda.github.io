@@ -1,10 +1,10 @@
 ---
-title: "개발 관련된 내용의 글"
+title: "Develop"
 layout: category
 permalink: /develop/
 author_profile: true
 toc_sticky: true
 toc_ads: true
-taxonomy: 개발
+taxonomy: Develop
 ---
-개발과 관련된 글입니다.
+개발과 관련된 정보를 공유하는 페이지입니다.
