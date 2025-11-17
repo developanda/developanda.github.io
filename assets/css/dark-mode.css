@@ -1,0 +1,10 @@
+body.dark-mode {
+  background-color: #1a1a1a;
+  color: #eaeaea;
+}
+body.dark-mode .page__content {
+  color: #eaeaea;
+}
+body.dark-mode a {
+  color: #9ecbff;
+}
